@@ -1,0 +1,39 @@
+body {
+    /* display: grid; */
+    background-color:blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    /*justify-self: center;*/
+}
+
+#proj-1, #proj-2, #proj-3 {
+    height: 50px;
+    max-width: 50px;
+}
+
+h1 {
+    justify-self: center;
+    color:rgb(9, 87, 136);
+}
+
+ul {
+    justify-self: center;
+    color:black;
+}
+
+.btn {
+    font-weight: bold;
+    color: rgb(9, 87, 136);
+}
+
+.nav-link, h3, a, #skills, #education-text, #skills-header, #education-header {
+    color: rgb(9, 87, 136);
+}
+
+/* h3 {
+    color: rgb(9, 87, 136);
+} */
