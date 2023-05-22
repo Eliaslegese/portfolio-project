@@ -1,6 +1,6 @@
 body {
     /* display: grid; */
-    background-color:blanchedalmond;
+    background-color:black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -17,21 +17,24 @@ img {
 
 h1 {
     justify-self: center;
-    color:rgb(9, 87, 136);
+    color:gold;
 }
 
 ul {
     justify-self: center;
-    color:black;
+    /* color:black; */
+    color:gold;
 }
 
 .btn {
     font-weight: bold;
-    color: rgb(9, 87, 136);
+    /* color: rgb(9, 87, 136); */
+    color:gold;
 }
 
-.nav-link, h3, a, #skills, #education-text, #skills-header, #education-header {
-    color: rgb(9, 87, 136);
+.nav-link, h3, a, #skills, #education-text, #skills-header, #education-header, #collapse-body {
+    /* color: rgb(9, 87, 136); */
+    color:gold;
 }
 
 /* h3 {
